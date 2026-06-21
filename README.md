@@ -31,7 +31,7 @@ O projeto foi desenvolvido durante os estudos do curso de Análise e Desenvolvim
 
 ## Tela do Aplicativo
 
-![Tela do Funcao01](images/funcao01-preview.png)
+![Tela do Funcao01](screenshot.png)
 
 ---
 
